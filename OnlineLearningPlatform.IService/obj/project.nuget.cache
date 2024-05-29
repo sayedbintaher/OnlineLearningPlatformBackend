@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9yuAE2BPuP6ZBVBNtsgq727hoT4Hyyzd5zwVv94E88lkr5DBa+jaSAsh84NpdpJA7TTmQarW0EImkk+u9bkXIw==",
+  "success": true,
+  "projectFilePath": "D:\\Sayed\\OLP\\Backend\\OnlineLearningPlatform.IService\\OnlineLearningPlatform.IService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sayedbintaher\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\sayedbintaher\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
