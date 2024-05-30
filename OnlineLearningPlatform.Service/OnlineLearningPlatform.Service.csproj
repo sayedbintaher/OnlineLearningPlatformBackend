@@ -1,5 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineLearningPlatform.IRepository\OnlineLearningPlatform.IRepository.csproj" />
+    <ProjectReference Include="..\OnlineLearningPlatform.IService\OnlineLearningPlatform.IService.csproj" />
+    <ProjectReference Include="..\OnlineLearningPlatform.Repository\OnlineLearningPlatform.Repository.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

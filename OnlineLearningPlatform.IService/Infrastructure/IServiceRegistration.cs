@@ -8,6 +8,6 @@ namespace OnlineLearningPlatform.IService.Infrastructure
 {
     public interface IServiceRegistration
     {
-        void AddInfrastructure(IServiceCollection services);
+        void AddInfrastructure(IServiceCollection services, string connString);
     }
 }
